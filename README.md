@@ -5,8 +5,7 @@
 -->
 
 Hi - I'm Kay, a lasercutting artist at [lasersister.com](https://lasersister.com) 
-- I'm currently (2026) studying a CFGdegree and learning Python | full stack | AI stuff
-- I've accidentally got 3x master's degrees (MA Creative & Critical Writing, MSc Information Systems, MRes Education Studies) plus a PGCE
-- I'm also currently writing a giant fantasy novel. 
+- I'm currently (2026) studying a CFGdegree and learning Python | software engineering | data analysis | AI & Machine Learning
+
 
 
